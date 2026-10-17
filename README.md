@@ -1,5 +1,7 @@
 # @deepwhale-cn/dsh-cn-pipl-check
 
+[![Listed on DSH Plugin Hub](https://dsh-plugin.org/badges/listed.svg)](https://dsh-plugin.org/zh/plugins/feely0208/dsh-cn-pipl-check)
+
 
 ## 安装
 
